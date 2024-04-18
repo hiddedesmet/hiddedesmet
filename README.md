@@ -1,5 +1,4 @@
-### Hi there 👋
-### An Azure Architect currently working at Xebia Microsoft Services
+## Hi there, my name is Hidde 👋
 
 <!--
 **hiddedesmet/hiddedesmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
